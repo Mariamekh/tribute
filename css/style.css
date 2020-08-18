@@ -67,3 +67,6 @@ blockquote {
 #link {
     font-size: 20px;
 }
+a:focus{
+    color:blue;
+}
